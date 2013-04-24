@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-
+require 'date'
 Gem::Specification.new do |s|
   s.name = "carrierwave"
   s.version = "0.4.10"
